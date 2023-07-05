@@ -1,0 +1,23 @@
+.h1-1{
+    text-align: center;
+}
+.button1{
+    display:block;
+    color: blue;
+    width:200px;
+    margin: 0 auto;
+}
+.p2{
+    display:block ;
+}
+.span{
+    color: blueviolet;
+    display: inline-block
+   margin:2px;
+    border:2px dashed black;
+    padding:2px;
+    height:2px;
+    width:2px;
+   
+
+}
